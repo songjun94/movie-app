@@ -100,4 +100,4 @@ MoSCoW는 요구사항의 우선순위를 정하는 간편한 방법론으로 Mu
 
 ## 09. 레퍼런스
 - [영화 그 이상의 감동. CGV](https://www.cgv.co.kr/)
->>>>>>> 6d170a15d60fb51ed1cce3ffe898741aa324ebf6
+
