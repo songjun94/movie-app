@@ -66,7 +66,7 @@ MoSCoW는 요구사항의 우선순위를 정하는 간편한 방법론으로 Mu
 
 - Color
 
-<img src="./image/1.png" height="500px"./image.png" height="200px"></img><br/>
+
 
 ```css
 .color1 {color: #156c53;}
